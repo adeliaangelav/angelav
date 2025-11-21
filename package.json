@@ -1,0 +1,24 @@
+{
+  "name": "angelav",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adeliaangelav/angelav.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/adeliaangelav/angelav/issues"
+  },
+  "homepage": "https://github.com/adeliaangelav/angelav#readme"
+}
